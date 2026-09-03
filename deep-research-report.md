@@ -1,5 +1,4 @@
-## Executive Summary
-
+## PhD Proposal
 We propose a **formal framework** in which *positive/negative valence* arises as a control-relevant quantity in autonomous agents that must preserve their own organization under finite resources. In this view, computational demands and prediction errors acquire affective relevance only when they threaten an agent’s *viability*. We define precise mathematical objects – a state space $\mathcal{S}$, a viability set $\mathcal{V}\subseteq\mathcal{S}$, a viability margin $m(s)$, a resource state $r_t=(\tau_t,\rho_t)$, and a computational cost $L_t$ – and derive a candidate valence signal $v_t$. Our thesis is that **valence-like dynamics emerge from resource-bounded information processing interacting with viability constraints**. We present testable hypotheses and an experimental plan comparing predictive, homeostatic, and “autopoietic” agents. This bridges Algorithmic Information Theory [1], active inference [3,6], and viability theory [4], yielding explicit, falsifiable predictions about AI welfare.
 
 ## 1. Theoretical Framework
